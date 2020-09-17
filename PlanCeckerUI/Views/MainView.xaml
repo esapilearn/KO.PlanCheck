@@ -31,7 +31,7 @@
                 </DataGrid.CellStyle>
                 <DataGrid.Columns>
                     <DataGridTextColumn Header="Constraints" Binding="{Binding Constraint.FullName}"/>
-                    <DataGridTextColumn Header="Resultx" Binding="{Binding Result.ResultType}"/>
+                    <DataGridTextColumn Header="Resultxx" Binding="{Binding Result.ResultType}"/>
                     <DataGridTextColumn Header="Message" Binding="{Binding Result.Message}" Width="*"/>
                     
                     
